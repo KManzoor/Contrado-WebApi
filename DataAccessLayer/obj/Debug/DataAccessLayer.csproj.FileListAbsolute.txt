@@ -1,0 +1,9 @@
+C:\Users\mah001\WVD Files\LogStarOne\Projects\E-Commerce\ECommerceWebApi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mah001\WVD Files\LogStarOne\Projects\E-Commerce\ECommerceWebApi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mah001\WVD Files\LogStarOne\Projects\E-Commerce\ECommerceWebApi\DataAccessLayer\bin\Debug\Entities.dll
+C:\Users\mah001\WVD Files\LogStarOne\Projects\E-Commerce\ECommerceWebApi\DataAccessLayer\bin\Debug\Entities.pdb
+C:\Users\mah001\WVD Files\LogStarOne\Projects\E-Commerce\ECommerceWebApi\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\mah001\WVD Files\LogStarOne\Projects\E-Commerce\ECommerceWebApi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mah001\WVD Files\LogStarOne\Projects\E-Commerce\ECommerceWebApi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\mah001\WVD Files\LogStarOne\Projects\E-Commerce\ECommerceWebApi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\mah001\WVD Files\LogStarOne\Projects\E-Commerce\ECommerceWebApi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
